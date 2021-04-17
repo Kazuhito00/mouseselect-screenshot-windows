@@ -1,0 +1,1 @@
+# mouseselect-screenshot-windows
